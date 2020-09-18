@@ -1,0 +1,130 @@
+#header {
+    display: grid;
+    grid-template-columns: 2fr 5fr ;
+}
+
+
+
+#image {
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    color: white;
+    padding-right: 50px;
+}
+
+#name {
+    letter-spacing: 0.5em;
+    font-weight: bold;
+}
+
+
+#web {
+
+letter-spacing: 0.5em;
+margin-top: 30px;
+}
+
+#underline {
+    width: 700px;
+    height: 10px;
+    margin-top: 10px;
+    background: #ceced0;
+}
+
+#exp {
+    background: #CDCDCF;
+    margin: 10px;
+    padding-left: 50px;
+}
+#wrapper {
+    padding: 0px;
+}
+
+p {
+    font-size: 1em;
+}
+
+
+
+.p1 {
+    background: blueviolet;
+    white-space: nowrap;
+    -webkit-animation: rightThenLeft 4s linear;
+    padding-left: 60px;
+    
+}
+
+.p2 {
+    background: blueviolet;
+    white-space: nowrap;
+    -webkit-animation: rightThenLeft 4s linear;
+    padding-left: 60px;
+    
+}
+
+.p3 {
+    background: blueviolet;
+    white-space: nowrap;
+    -webkit-animation: rightThenLeft 4s linear;
+    padding-left: 60px;
+    
+}
+
+.p4 {
+    background: blueviolet;
+    white-space: nowrap;
+    -webkit-animation: rightThenLeft 4s linear;
+    padding-left: 60px;
+    
+}
+
+.p5 {
+    background: blueviolet;
+    white-space: nowrap;
+    -webkit-animation: rightThenLeft 4s linear;
+    padding-left: 60px;
+    
+}
+
+.p6 {
+    background: blueviolet;
+    white-space: nowrap;
+    -webkit-animation: rightThenLeft 4s linear;
+    padding-left: 60px;
+    
+}
+
+.contacts {
+    background: blueviolet;
+    white-space: nowrap;
+    -webkit-animation: rightThenLeft 4s linear;
+    padding-left: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
